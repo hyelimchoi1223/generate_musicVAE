@@ -6,7 +6,8 @@ generate_musicVAE
 │
 ├── musicVAE_최혜림.ipynb
 └── result/
-  └── wav/
+  ├── wav/
+  └── midi/
 ```
 
 # 결과물
